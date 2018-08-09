@@ -37,7 +37,6 @@ Again, there are a few different ways to view the NMEA sentences. You can use yo
 ### Linux
 1. Find what the path is to the USB device.
 2. Set baud rate for the device by executing this command `stty -F /dev/ttyUSB0 9600`
-
    _Note: /dev/ttyUSB0 is the path to my USB device and 9600 is the baud rate to my GPS. Yours may be different_
 3. View the data coming out with `cat /dev/ttyUSB0`
 
