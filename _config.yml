@@ -16,7 +16,7 @@
 title: Patrick Bremer
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Programming blog about the stuff I am working on or interests me.
+  Programming blog about the stuff I am working on or that interests me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
