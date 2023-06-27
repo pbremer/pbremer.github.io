@@ -23,12 +23,12 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Results-driven software engineer with a solid track record of 
-  designing, develping, and testing robust software solutions. Profecient in multiple 
-  programming languages, frameworks, and technologies with a focus on delivering efficient 
-  and scalable applications both in the cloud and on-prem. Adept in analyzing complex problems, 
-  devising creative solutions, and collaborating with team members. Commited to staying updated 
-  with latest technologies and dedicated to delivering exceptional software products.</p>"
+resume_header_intro: "<p>Results-driven software engineer with a solid track record of designing, 
+  developing, and testing robust software solutions. Proficient in multiple programming languages, 
+  frameworks, and technologies with a focus on delivering efficient and scalable applications both 
+  in the cloud and on-prem. Adept in analyzing complex problems, devising creative solutions, and 
+  collaborating with team members. Committed to staying updated with latest technologies and 
+  dedicated to delivering exceptional software products.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
